@@ -1,0 +1,9 @@
+# Electron is a download, not source. The Flash plugin (flash/) is here.
+/electron/
+/electron-win/
+/dist/
+/tools/bin/
+/installer/node_modules/
+
+# kept in the private repository, never here
+*.md
